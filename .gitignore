@@ -3,3 +3,12 @@ lib
 share
 
 outputs_mitdb_analysis
+outputs_dir
+
+.venv/
+venv/
+env/
+pyvenv.cfg
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
